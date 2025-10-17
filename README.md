@@ -42,7 +42,7 @@ Built with **Python + Pygame**, this version blends **retro pixel charm** with *
 
 ## 🚀 Installation
 
-###  Clone the Repository
+###  Clone,Install and Run the Repository
 ```bash
 git clone https://github.com/anis-mselmi/snake_arcade.git
 pip install pygame
