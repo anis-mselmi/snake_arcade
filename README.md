@@ -1,12 +1,10 @@
 # 🐍 SNAKE 1984 • Retro Arcade
 
-**A modern twist on the classic Snake game — powered by Python, Pygame, and a bit of prompt engineering.**
+**A modern twist on the classic Snake game powered by Python, Pygame, and a bit of prompt engineering.**
 
 <p align="center">
   <img src="Snake.png" alt="Snake 1984" width="300"/>
 </p>
-
-
 
 
 ---
@@ -44,7 +42,7 @@ Built with **Python + Pygame**, this version blends **retro pixel charm** with *
 
 ## 🚀 Installation
 
-### 1️⃣ Clone the Repository
+###  Clone the Repository
 ```bash
 git clone https://github.com/anis-mselmi/snake_arcade.git
 pip install pygame
