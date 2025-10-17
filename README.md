@@ -2,7 +2,7 @@
 
 **A modern twist on the classic Snake game — powered by Python, Pygame, and a bit of prompt engineering.**
 
-![Snake 1984 Banner](https://github.com/yourusername/snake1984/assets/banner.png)
+![Snake 1984 Banner](https://github.com/yourusername/snake1984/assets/Snake.png)
 
 ---
 
